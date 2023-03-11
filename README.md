@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-mohmed-sakr&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-mohmed-sakr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ahmedskar2" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmedskar2?logo=twitter&style=for-the-badge" alt="ahmedskar2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ahmedskar2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedskar2?logo=twitter&style=for-the-badge" alt="@ahmedskar2" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
