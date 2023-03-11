@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=600)](https://github.com/Ahmed-Mohmed-Sakr/Ahmed-Mohmed-Sakr)
+[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1200)](https://github.com/Ahmed-Mohmed-Sakr/Ahmed-Mohmed-Sakr)
 
 <h1 align="center">Hi 👋, I'm Ahmed Sakr</h1>
 <h3 align="center">A passionate Software Engineer | Competitive Programmer | intern @ALX</h3>
