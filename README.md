@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-mohmed-sakr&show_icons=true&locale=en&layout=compact" alt="ahmed-mohmed-sakr" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-mohmed-sakr&show_icons=true&locale=en" alt="ahmed-mohmed-sakr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed-mohmed-sakr&show_icons=true&locale=en" alt="ahmed-mohmed-sakr" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-mohmed-sakr&" alt="ahmed-mohmed-sakr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=ahmed-mohmed-sakr&" alt="ahmed-mohmed-sakr" /></p>
