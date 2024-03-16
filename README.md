@@ -1,17 +1,18 @@
 <!-- [![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=250)](https://github.com/Ahmed-Mohmed-Sakr/Ahmed-Mohmed-Sakr) -->
 
 <h1 align="center">Hi 👋, I'm Ahmed Sakr</h1>
-<h3 align="center">A passionate Software Engineer | Competitive Programmer | intern @Fawry & @ALX</h3>
+<h3 align="center">Software Engineer @Fawry || ECPC finalist || ex TechnoVerse</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> -->
 
-- 🌱 I’m currently  @**Fawry intern**
+- 🌱 I’m currently  **Software Engineer @Fawry**
 
 - 💬 Ask me about **Algorithms, Data Structure, Web Technology and UNIX&LINUX Systems**
 
 - 📫 How to reach me **ahmedsakr07407@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1nXP2htixJm0yL0rDBGQn88XT1TGUsGcj/view?usp=sharing)
+<!-- - 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1nXP2htixJm0yL0rDBGQn88XT1TGUsGcj/view?usp=sharing)
+-->
 
 <br>
 
